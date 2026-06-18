@@ -1,0 +1,11 @@
+{
+  "loky_bundle_version": "1",
+  "name": "test",
+  "icon": "📌",
+  "color": "#2bb4a3",
+  "systemPrompt": "",
+  "ragEnabled": true,
+  "webSearchEnabled": false,
+  "defaultModel": "openrouter:deepseek/deepseek-v4-pro",
+  "exportedAt": "2026-06-18T08:39:35.927Z"
+}
