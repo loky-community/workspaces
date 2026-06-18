@@ -1,5 +1,20 @@
 {
-   "version": "1",
-   "updatedAt": "2026-06-17",
-   "workspaces": []
+  "version": "1",
+  "updatedAt": "2026-06-18",
+  "workspaces": [
+    {
+      "slug": "other/test",
+      "name": "test",
+      "description": "Ceci est un test.",
+      "icon": "📌",
+      "color": "#2bb4a3",
+      "category": "other",
+      "tags": [
+        "Test"
+      ],
+      "author": "Yannick.",
+      "installs": 0,
+      "publishedAt": "2026-06-18"
+    }
+  ]
 }
