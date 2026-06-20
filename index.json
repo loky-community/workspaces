@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "updatedAt": "2026-06-18",
+  "updatedAt": "2026-06-20",
   "workspaces": [
     {
       "slug": "other/test",
@@ -15,6 +15,22 @@
       "author": "Yannick.",
       "installs": 0,
       "publishedAt": "2026-06-18"
+    },
+    {
+      "slug": "productivity/cuisinier",
+      "name": "cuisinier",
+      "description": "J'ai voulu créer un espace pour me permettre de créer des recettes en fonction de ce que j'ai acheté récemment ou de ce qui est dans mon frigo. Je n'ai jamais d'idée de recette, j'ai trouvé que ce serait intéressant de pouvoir trouver des idées grâce à Loky.",
+      "icon": "📁",
+      "color": "#2bb4a3",
+      "category": "productivity",
+      "tags": [
+        "cuisine",
+        "idées",
+        "Recette"
+      ],
+      "author": "Yannick",
+      "installs": 0,
+      "publishedAt": "2026-06-20"
     }
   ]
 }
