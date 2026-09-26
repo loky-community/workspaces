@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "updatedAt": "2026-06-20",
+  "updatedAt": "2026-09-26",
   "workspaces": [
     {
       "slug": "other/test",
@@ -31,6 +31,22 @@
       "author": "Yannick",
       "installs": 0,
       "publishedAt": "2026-06-20"
+    },
+    {
+      "slug": "other/suno-creator",
+      "name": "SUNO Creator",
+      "description": "Espace qui vous permet de créer facilement des musiques et des chansons dans SUNO.",
+      "icon": "📁",
+      "color": "#2bb4a3",
+      "category": "other",
+      "tags": [
+        "suno",
+        "musique",
+        "creation"
+      ],
+      "author": "Yannick",
+      "installs": 0,
+      "publishedAt": "2026-09-26"
     }
   ]
 }
