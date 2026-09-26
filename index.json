@@ -3,20 +3,6 @@
   "updatedAt": "2026-09-26",
   "workspaces": [
     {
-      "slug": "other/test",
-      "name": "test",
-      "description": "Ceci est un test.",
-      "icon": "📌",
-      "color": "#2bb4a3",
-      "category": "other",
-      "tags": [
-        "Test"
-      ],
-      "author": "Yannick.",
-      "installs": 0,
-      "publishedAt": "2026-06-18"
-    },
-    {
       "slug": "productivity/cuisinier",
       "name": "cuisinier",
       "description": "J'ai voulu créer un espace pour me permettre de créer des recettes en fonction de ce que j'ai acheté récemment ou de ce qui est dans mon frigo. Je n'ai jamais d'idée de recette, j'ai trouvé que ce serait intéressant de pouvoir trouver des idées grâce à Loky.",
